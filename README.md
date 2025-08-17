@@ -1,5 +1,7 @@
 # VitaeCare
 
+<img src="assets/VitaeCare.gif" alt="Demo do VitaeCare" width="800">
+
 > ⚠️ **Aviso Importante / Termo de Responsabilidade**
 > Este aplicativo é **gratuito**, **experimental**, **sem garantias** e **sem suporte**.
 > **Todo o uso, bem como as informações inseridas, interpretadas ou compartilhadas, são de responsabilidade exclusiva do usuário.**

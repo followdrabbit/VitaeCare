@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Aromatherapy Design System - Natural, Professional & Scientific */
+
+@layer base {
+  :root {
+    /* Natural Background & Text */
+    --background: 30 15% 98%;
+    --foreground: 160 20% 15%;
+
+    /* Card Components */
+    --card: 0 0% 100%;
+    --card-foreground: 160 20% 15%;
+
+    /* Popovers & Overlays */
+    --popover: 0 0% 100%;
+    --popover-foreground: 160 20% 15%;
+
+    /* Primary - Eucalyptus/Mint Green */
+    --primary: 155 85% 35%;
+    --primary-foreground: 0 0% 100%;
+    --primary-soft: 155 45% 85%;
+    --primary-glow: 155 65% 45%;
+
+    /* Secondary - Sage Green */
+    --secondary: 140 25% 88%;
+    --secondary-foreground: 160 20% 15%;
+
+    /* Muted - Warm Neutral */
+    --muted: 35 20% 94%;
+    --muted-foreground: 160 15% 45%;
+
+    /* Accent - Soft Blue (therapeutic) */
+    --accent: 195 35% 85%;
+    --accent-foreground: 195 85% 25%;
+
+    /* Alert/Destructive - Natural warning */
+    --destructive: 15 80% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* Success - Deep green */
+    --success: 145 65% 40%;
+    --success-foreground: 0 0% 100%;
+
+    /* Borders & Inputs */
+    --border: 140 15% 88%;
+    --input: 140 15% 88%;
+    --ring: 155 85% 35%;
+
+    /* Design Tokens */
+    --radius: 0.75rem;
+    
+    /* Gradients for hero sections and highlights */
+    --gradient-primary: linear-gradient(135deg, hsl(155 85% 35%), hsl(155 65% 45%));
+    --gradient-soft: linear-gradient(180deg, hsl(155 45% 95%), hsl(155 25% 88%));
+    --gradient-nature: linear-gradient(135deg, hsl(140 25% 88%), hsl(195 35% 85%));
+    
+    /* Shadows for depth and elevation */
+    --shadow-soft: 0 4px 12px hsl(155 25% 15% / 0.08);
+    --shadow-card: 0 2px 8px hsl(155 25% 15% / 0.06);
+    --shadow-glow: 0 0 24px hsl(155 65% 45% / 0.15);
+    
+    /* Transitions for smooth interactions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-fast: all 0.15s ease-out;
+  }
+
+  .dark {
+    /* Dark mode - Professional and comfortable for extended reading */
+    --background: 160 20% 8%;
+    --foreground: 155 25% 92%;
+
+    --card: 160 15% 12%;
+    --card-foreground: 155 25% 92%;
+
+    --popover: 160 15% 12%;
+    --popover-foreground: 155 25% 92%;
+
+    --primary: 155 70% 45%;
+    --primary-foreground: 160 20% 8%;
+    --primary-soft: 155 35% 25%;
+    --primary-glow: 155 60% 50%;
+
+    --secondary: 160 15% 18%;
+    --secondary-foreground: 155 25% 92%;
+
+    --muted: 160 10% 15%;
+    --muted-foreground: 155 15% 65%;
+
+    --accent: 195 25% 25%;
+    --accent-foreground: 195 45% 85%;
+
+    --destructive: 15 70% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 145 60% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --border: 160 15% 18%;
+    --input: 160 15% 18%;
+    --ring: 155 70% 45%;
+    
+    /* Dark mode gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(155 70% 45%), hsl(155 60% 50%));
+    --gradient-soft: linear-gradient(180deg, hsl(160 15% 12%), hsl(160 10% 15%));
+    --gradient-nature: linear-gradient(135deg, hsl(160 15% 18%), hsl(195 25% 25%));
+    
+    /* Dark mode shadows */
+    --shadow-soft: 0 4px 12px hsl(0 0% 0% / 0.25);
+    --shadow-card: 0 2px 8px hsl(0 0% 0% / 0.15);
+    --shadow-glow: 0 0 24px hsl(155 60% 50% / 0.2);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

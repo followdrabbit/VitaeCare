@@ -1,0 +1,1055 @@
+[
+  {
+    "id": "OIL-LIPSUM-001",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 001",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol"
+      },
+      {
+        "nome": "Cineolum"
+      }
+    ],
+    "efeitos_esperados": [
+      "Lorem (relaxamento, calma, estresse)",
+      "Lorem (sono, dormir, insônia)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": true,
+    "uso_ambiente_clinico": true,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-002",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 002",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "casca_de_fruto",
+    "parte_usada_raw": "Casca/Fruto",
+    "metodo_extracao": "expression",
+    "metodo_extracao_raw": "Prensagem a frio",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "cítrico/aromático (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Limonenum"
+      },
+      {
+        "nome": "Dolorol"
+      }
+    ],
+    "efeitos_esperados": [
+      "Ipsum (foco, concentração, memória)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": true,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "South America",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Frutos/Bagas",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-003",
+    "tipo_produto": "absolute",
+    "nome_pt": "Lorem ipsum oleum 003",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "flor",
+    "parte_usada_raw": "Flores",
+    "metodo_extracao": "solvent",
+    "metodo_extracao_raw": "Extração por solvente (absoluto)",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "floral (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Dolor (antisséptico, antimicrobiano, purificação)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Álcool/DPG (perfumaria)",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": true,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Flores",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-004",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 004",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "semente",
+    "parte_usada_raw": "Sementes",
+    "metodo_extracao": "co2",
+    "metodo_extracao_raw": "CO₂",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "especiado (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Sit (muscular, dor, mialgia, espasmo, analgesia)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro",
+      "Gel base",
+      "Álcool/DPG (perfumaria)"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 12,
+      "epilepsia": true,
+      "asma": true
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Sementes",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-005",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 005",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "madeira",
+    "parte_usada_raw": "Madeira",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "amadeirado (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Lorem ipsum (placeholder)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "massagem (diluído)",
+      "perfumaria/base fixadora",
+      "spray ambiente/lençol"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Álcool/DPG (perfumaria)",
+      "Semente de uva"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Asia",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Madeira",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-006",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 006",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "resina",
+    "parte_usada_raw": "Resina",
+    "metodo_extracao": "hydrodistillation",
+    "metodo_extracao_raw": "Hidrodestilação",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "resinoso/balsâmico (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Amet (pele sensível, cicatriz, eczema)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "North Africa",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Resina",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-007",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 007",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "raiz",
+    "parte_usada_raw": "Raiz",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Consectetur (respiratório, descongestionante, expectorante)"
+    ],
+    "aplicacoes_sugeridas": [
+      "inalação úmida (vapor)",
+      "inalação seca (lenço/inhaler)",
+      "difusor/aromático"
+    ],
+    "veiculos_recomendados": [
+      "Gel base",
+      "Creme neutro",
+      "Jojoba"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Raízes",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-008",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 008",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Adipiscing (couro cabeludo, cabelo)"
+    ],
+    "aplicacoes_sugeridas": [
+      "couro cabeludo/cabelo (diluído)",
+      "xampu base (mock)",
+      "difusor/aromático"
+    ],
+    "veiculos_recomendados": [
+      "Xampu base (para couro cabeludo)",
+      "Gel base",
+      "Jojoba"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": true,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Central America",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-009",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 009",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Rutaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "solvent",
+    "metodo_extracao_raw": "Extração por solvente (resinoide)",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "aromática/herbal (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Lorem ipsum (placeholder)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "North America",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Outros",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-010",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 010",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "expression",
+    "metodo_extracao_raw": "Prensagem a frio",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "cítrico/aromático (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Limonenum"
+      },
+      {
+        "nome": "Ametenum"
+      }
+    ],
+    "efeitos_esperados": [
+      "Lorem ipsum (placeholder)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Álcool/DPG (perfumaria)",
+      "Jojoba"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Oceania",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Frutos/Bagas",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-011",
+    "tipo_produto": "co2_extract",
+    "nome_pt": "Lorem ipsum oleum 011",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Lamiaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "co2",
+    "metodo_extracao_raw": "CO₂",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Thymolum"
+      },
+      {
+        "nome": "Carvacrolum"
+      }
+    ],
+    "efeitos_esperados": [
+      "Elit (antisséptico, antimicrobiano)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Creme neutro",
+      "Xampu base (para couro cabeludo)"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Middle East",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-012",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 012",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Loremol",
+        "percentual": null
+      },
+      {
+        "nome": "Ipsenol",
+        "percentual": null
+      }
+    ],
+    "efeitos_esperados": [
+      "Quis (relax, stress, calma)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 2,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-013",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 013",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "Verbenonum"
+      },
+      {
+        "nome": "Borneolum"
+      }
+    ],
+    "efeitos_esperados": [
+      "Verbenona (respiratório; foco)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": true,
+      "lactacao": false,
+      "criancas_min_idade": 12,
+      "epilepsia": true,
+      "asma": false
+    },
+    "regiao_origem": "Europe",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": true,
+    "alto_1_8_cineole": false,
+    "alto_fenois": false
+  },
+  {
+    "id": "OIL-LIPSUM-014",
+    "tipo_produto": "essential_oil",
+    "nome_pt": "Lorem ipsum oleum 014",
+    "nome_latim": "Lorem ipsum (fictum)",
+    "familia_botanica": "Loremaceae",
+    "parte_usada": "folha",
+    "parte_usada_raw": "Partes aereae",
+    "metodo_extracao": "steam_distillation",
+    "metodo_extracao_raw": "Destilação a vapor",
+    "familia_olfativa": "herbal",
+    "familia_olfativa_raw": "herbal/verde (lorem)",
+    "principais_constituintes": [
+      {
+        "nome": "1,8-Cineolum"
+      },
+      {
+        "nome": "Thymolum"
+      }
+    ],
+    "efeitos_esperados": [
+      "Lorem ipsum (placeholder)"
+    ],
+    "aplicacoes_sugeridas": [
+      "difusor/aromático",
+      "tópico diluído (óleo carreador)"
+    ],
+    "veiculos_recomendados": [
+      "Jojoba",
+      "Coco fracionado",
+      "Semente de uva",
+      "Creme neutro"
+    ],
+    "propriedades_tradicionais": "Lorem ipsum dolor sit amet.",
+    "etnobotanica_geral": "Lorem ipsum.",
+    "precaucoes": "Textus ficticius — lorem ipsum.",
+    "contraindicacoes": "Textus ficticius — lorem ipsum.",
+    "notas_rapidas_seguranca": "Conteúdo placeholder para testes de UI e filtros.",
+    "uso_pele_sensivel": false,
+    "uso_ambiente_clinico": false,
+    "uso_couro_cabeludo": false,
+    "fototoxico": false,
+    "sensibilizante": false,
+    "publicos_restritos": {
+      "gravidez": false,
+      "lactacao": false,
+      "criancas_min_idade": 3,
+      "epilepsia": false,
+      "asma": false
+    },
+    "regiao_origem": "Asia",
+    "diluicoes": {
+      "geral": "0% — lorem ipsum",
+      "valores_percent": [
+        0.0
+      ]
+    },
+    "sinergias_sugeridas": [
+      "Lorem cum Citrus",
+      "Lorem cum Silvae"
+    ],
+    "incompatibilidades_praticas": [
+      "Nulla facilisi (lorem)"
+    ],
+    "fontes": [
+      {
+        "url": "https://example.com/lorem"
+      }
+    ],
+    "categoria": "Folhas/Ramos",
+    "alto_teor_cetonas": false,
+    "alto_1_8_cineole": true,
+    "alto_fenois": true
+  }
+]

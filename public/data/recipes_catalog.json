@@ -1,0 +1,590 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2025-08-17T18:15:12.058580Z",
+  "source_notice": "DADOS FICTÍCIOS — LOREM IPSUM EXCLUSIVAMENTE PARA TESTES DE SISTEMA. NÃO UTILIZAR.",
+  "recipes": [
+    {
+      "id": "R-001",
+      "name": "Lorem — Difusor noturno",
+      "purpose": [
+        "sono profundo",
+        "relax e calma noturna",
+        "reduzir estresse"
+      ],
+      "application": "Difusor ultrassônico",
+      "difficulty": "Iniciante",
+      "prep_time": "3 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "essential_oil",
+          "name_pt": "Lorem A",
+          "latin": "Mentha lorem",
+          "drops": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Ipsum B",
+          "latin": "Lavandula ipsum",
+          "drops": 0
+        },
+        {
+          "type": "water",
+          "name_pt": "Água destilada",
+          "amount_ml": 0
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet.",
+        "Sed do eiusmod tempor."
+      ],
+      "dilution": {
+        "context": "lorem ipsum"
+      },
+      "validity": "lorem",
+      "contraindications": [],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "sono",
+        "relax",
+        "noturno"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 1",
+          "url": "https://example.com/lr1"
+        }
+      ]
+    },
+    {
+      "id": "R-002",
+      "name": "Ipsum — Roll-on tópico diurno",
+      "purpose": [
+        "pele/face sérum",
+        "clareza e foco"
+      ],
+      "application": "Roll-on tópico (leave-on, sérum facial)",
+      "difficulty": "Intermediário",
+      "prep_time": "8 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "carrier_oil",
+          "name_pt": "Jojoba",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Citrus ipsum",
+          "latin": "Citrus ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Ut enim ad minim veniam."
+      ],
+      "dilution": {
+        "context": "tópico facial",
+        "percent": 1.0,
+        "note": "lorem ipsum"
+      },
+      "validity": "ipsum",
+      "contraindications": [
+        "Uso diurno: fotossensibilizantes / fototóxico em leave-on."
+      ],
+      "safety_notes": [
+        "Asma: lorem."
+      ],
+      "tags": [
+        "face",
+        "serum",
+        "leave-on"
+      ],
+      "references": []
+    },
+    {
+      "id": "R-003",
+      "name": "Dolor — Spray de purificação do ar",
+      "purpose": [
+        "purificação do ambiente",
+        "higienização de odor"
+      ],
+      "application": "Spray ambiente",
+      "difficulty": "Iniciante",
+      "prep_time": "6 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "solvent",
+          "name_pt": "Álcool 70%",
+          "amount_ml": 0
+        },
+        {
+          "type": "water",
+          "name_pt": "Água destilada",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Eucalyptus lorem",
+          "latin": "Eucalyptus ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Quis nostrud exercitation."
+      ],
+      "dilution": {
+        "context": "spray",
+        "percent": 0.5,
+        "note": "lorem ipsum"
+      },
+      "validity": "ipsum",
+      "contraindications": [
+        "Contraindicado para crianças pequenas."
+      ],
+      "safety_notes": [
+        "Cautela em asma."
+      ],
+      "tags": [
+        "purificação",
+        "ambiente",
+        "spray",
+        "ar",
+        "odor",
+        "higienização"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 2",
+          "url": "https://example.com/lr2"
+        }
+      ]
+    },
+    {
+      "id": "R-004",
+      "name": "Sit — Compressa muscular",
+      "purpose": [
+        "muscular e tensão",
+        "analgésico para dor"
+      ],
+      "application": "Compressa morna",
+      "difficulty": "Intermediário",
+      "prep_time": "12 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "essential_oil",
+          "name_pt": "Dolor rubrum",
+          "latin": "Gaultheria dolor",
+          "drops": 0
+        },
+        {
+          "type": "water",
+          "name_pt": "Água morna",
+          "amount_ml": 0
+        }
+      ],
+      "steps": [
+        "Duis aute irure dolor."
+      ],
+      "dilution": {
+        "context": "compressa",
+        "percent": 2.0,
+        "note": "lorem ipsum"
+      },
+      "validity": "dolor",
+      "contraindications": [],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "muscular",
+        "tensao",
+        "analgesico",
+        "dor"
+      ],
+      "references": []
+    },
+    {
+      "id": "R-005",
+      "name": "Amet — Óleo de massagem facial",
+      "purpose": [
+        "pele e face sérum",
+        "acne e oleosidade"
+      ],
+      "application": "Massagem facial (tópico/leave-on)",
+      "difficulty": "Avançado",
+      "prep_time": "15 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "carrier_oil",
+          "name_pt": "Glicerina",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Tea tree lorem",
+          "latin": "Melaleuca lorem",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Excepteur sint occaecat."
+      ],
+      "dilution": {
+        "context": "tópico",
+        "percent": 3.0,
+        "note": "lorem ipsum"
+      },
+      "validity": "lorem",
+      "contraindications": [
+        "Evitar durante a gravidez."
+      ],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "pele",
+        "face",
+        "serum",
+        "acne",
+        "oleos"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 3",
+          "url": "https://example.com/lr3"
+        }
+      ]
+    },
+    {
+      "id": "R-006",
+      "name": "Consectetur — Inalação seca para foco",
+      "purpose": [
+        "foco, concentração e alerta",
+        "clareza e vigilância"
+      ],
+      "application": "Inalação seca (lenço/inhaler)",
+      "difficulty": "Iniciante",
+      "prep_time": "2 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "essential_oil",
+          "name_pt": "Rosmarinus lorem",
+          "latin": "Rosmarinus ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Sunt in culpa qui officia."
+      ],
+      "dilution": {
+        "context": "inalação"
+      },
+      "validity": "ipsum",
+      "contraindications": [],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "foco",
+        "concentracao",
+        "clareza",
+        "alerta"
+      ],
+      "references": []
+    },
+    {
+      "id": "R-007",
+      "name": "Adipiscing — Banho relaxante",
+      "purpose": [
+        "relax e calma",
+        "reduzir ansiedade"
+      ],
+      "application": "Banho de imersão",
+      "difficulty": "Intermediário",
+      "prep_time": "10 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "solubilizer",
+          "name_pt": "Solubilizante lorem",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Lavandula lorem",
+          "latin": "Lavandula ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Curabitur blandit tempus."
+      ],
+      "dilution": {
+        "context": "banho",
+        "percent": 0.8,
+        "note": "lorem ipsum"
+      },
+      "validity": "ipsum",
+      "contraindications": [
+        "Não utilizar em bebês/pediátrico."
+      ],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "relax",
+        "ansiedade"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 4",
+          "url": "https://example.com/lr4"
+        }
+      ]
+    },
+    {
+      "id": "R-008",
+      "name": "Elit — Difusor respiratório",
+      "purpose": [
+        "respiratório: rinite, sinusite, tosse e bronquite",
+        "descongestão"
+      ],
+      "application": "Difusor ultrassônico",
+      "difficulty": "Iniciante",
+      "prep_time": "5 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "essential_oil",
+          "name_pt": "Eucalyptus dolor",
+          "latin": "Eucalyptus dolor",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Maecenas faucibus mollis."
+      ],
+      "dilution": {
+        "context": "difusor"
+      },
+      "validity": "lorem",
+      "contraindications": [],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "respiratorio",
+        "congest",
+        "rinite",
+        "sinus",
+        "tosse",
+        "bronq"
+      ],
+      "references": []
+    },
+    {
+      "id": "R-009",
+      "name": "Ipsum — Roll-on noturno",
+      "purpose": [
+        "sono e relaxamento",
+        "calma noturna"
+      ],
+      "application": "Roll-on tópico",
+      "difficulty": "Iniciante",
+      "prep_time": "4 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "carrier_oil",
+          "name_pt": "Coco fracionado",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Lavandula lorem",
+          "latin": "Lavandula ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Aenean eu leo quam."
+      ],
+      "dilution": {
+        "context": "tópico",
+        "percent": 1.0,
+        "note": "lorem ipsum"
+      },
+      "validity": "lorem",
+      "contraindications": [],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "sono",
+        "relax"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 5",
+          "url": "https://example.com/lr5"
+        }
+      ]
+    },
+    {
+      "id": "R-010",
+      "name": "Veniam — Spray ambiente avançado",
+      "purpose": [
+        "purificação de ambiente",
+        "higienização de odor"
+      ],
+      "application": "Spray ambiente",
+      "difficulty": "Avançado",
+      "prep_time": "14 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "solvent",
+          "name_pt": "Álcool 70%",
+          "amount_ml": 0
+        },
+        {
+          "type": "water",
+          "name_pt": "Água destilada",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Cinnamomum lorem",
+          "latin": "Cinnamomum ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Praesent commodo cursus magna."
+      ],
+      "dilution": {
+        "context": "spray",
+        "percent": 0.6,
+        "note": "lorem ipsum"
+      },
+      "validity": "ipsum",
+      "contraindications": [
+        "Contraindicado para crianças pequenas."
+      ],
+      "safety_notes": [
+        "Cautela em asma."
+      ],
+      "tags": [
+        "purificacao",
+        "ambiente",
+        "spray",
+        "odor"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 6",
+          "url": "https://example.com/lr6"
+        }
+      ]
+    },
+    {
+      "id": "R-011",
+      "name": "Quis — Sérum facial diurno",
+      "purpose": [
+        "face sérum",
+        "clareza e foco"
+      ],
+      "application": "Sérum facial (leave-on)",
+      "difficulty": "Intermediário",
+      "prep_time": "7 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "carrier_oil",
+          "name_pt": "Jojoba",
+          "amount_ml": 0
+        },
+        {
+          "type": "essential_oil",
+          "name_pt": "Citrus dolor",
+          "latin": "Citrus dolor",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Vestibulum id ligula porta."
+      ],
+      "dilution": {
+        "context": "sérum",
+        "percent": 1.2,
+        "note": "lorem ipsum"
+      },
+      "validity": "lorem",
+      "contraindications": [
+        "Risco de fotossensibilização/fototóxico em leave-on."
+      ],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "face",
+        "serum",
+        "leave-on",
+        "fotossensibilizante"
+      ],
+      "references": [
+        {
+          "title": "Ref lorem 7",
+          "url": "https://example.com/lr7"
+        }
+      ]
+    },
+    {
+      "id": "R-012",
+      "name": "Excepteur — Inalação calmante",
+      "purpose": [
+        "ansiedade/relax",
+        "calma"
+      ],
+      "application": "Inalação úmida (vapor)",
+      "difficulty": "Iniciante",
+      "prep_time": "6 min",
+      "yield": "lorem",
+      "ingredients": [
+        {
+          "type": "essential_oil",
+          "name_pt": "Ocimum lorem",
+          "latin": "Ocimum ipsum",
+          "drops": 0
+        }
+      ],
+      "steps": [
+        "Cras mattis consectetur purus."
+      ],
+      "dilution": {
+        "context": "inalação"
+      },
+      "validity": "ipsum",
+      "contraindications": [
+        "Evitar em epilepsia.",
+        "Cautela em asma."
+      ],
+      "safety_notes": [
+        "Nota lorem."
+      ],
+      "tags": [
+        "ansiedade",
+        "relax",
+        "calma"
+      ],
+      "references": []
+    }
+  ]
+}
